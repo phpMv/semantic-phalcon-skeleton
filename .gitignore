@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+startup/.idea
+startup/app/composer.lock
+startup/app/vendor
