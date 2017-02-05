@@ -48,3 +48,4 @@ Temporary Items
 startup/.idea
 startup/app/composer.lock
 startup/app/vendor
+startup/cache
