@@ -2,7 +2,7 @@
 phpMv-UI startup project with phalcon
 
 
-##Configuration
+## Configuration
 
 After downloading, create the folders :
   - **cache** (for phalcon template caching)
